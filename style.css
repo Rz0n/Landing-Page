@@ -50,6 +50,7 @@
     font-size: 18px;
     color: #E5E7EB;
     margin-top: 150px;
+    width: 400px;
 }
 
 
@@ -61,4 +62,36 @@
 }
 
 
+.img-div {
+    color: #E5E7EB;
+    background-color: gray;
+    padding: 100px;
+    text-align: center;
+    margin-top: 137px;
+}
 
+.btn {
+    background-color: #3882F6;
+    color: rgb(255, 255, 255);
+    padding: 7px 20px;
+    margin-top: 12px;
+    border: none;
+    border-radius: 7px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.hero-info {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.img-con {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
