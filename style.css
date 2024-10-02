@@ -140,3 +140,52 @@
     text-align: end;
     font-weight: bold;
 }
+
+.text-con {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    height: 100px;
+    width: fit-content;
+    padding: 70px;
+    border: none;
+    border-radius: 7px;
+    margin: 60px auto;
+}
+
+.texts-con {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-self: center;
+    
+}
+
+.call-action {
+    color: rgb(249, 250, 248);
+    font-size: 24px;
+}
+
+.sign-text {
+    color: #E5E7EB;
+}
+
+.sign-btn {
+    color: white;
+    background: none;
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 5px 20px;
+    margin-left: 20px;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 60px;
+    margin-top: 50px;
+}
+
+.footer > p {
+    color: white;
+}
