@@ -128,10 +128,15 @@
     
 }
 
-.information > p {
+.information .quote {
     align-self: center;
     font-size: 36px;
     font-weight: light;
     font-style: italic;
     padding: 400px;
+}
+
+.autor {
+    text-align: end;
+    font-weight: bold;
 }
